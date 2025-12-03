@@ -28,7 +28,7 @@ To provide high-quality, accessible ICT resources for Sri Lankan students. Wheth
 
 This platform is not just a blog; it is an EdTech solution architected by an industry professional to ensure accuracy and technical depth.
 
-**[Prabhath Tharanga](https://github.com/YOUR-PERSONAL-USERNAME-HERE)**
+**[Prabhath Tharanga](https://github.com/XavierSPQR)**
 * *QA Automation Engineer* (Industry Experience)
 * *B.Sc. in Information Technology* (Reading) - UCSC
 * *BET (Hons) in Engineering Technology* (Reading) - SUSL
